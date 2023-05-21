@@ -10,6 +10,7 @@ import {
     Header,
 } from "./containers";
 import { NavBar } from "./components";
+import "./App.scss";
 
 const App = () => {
     return (
